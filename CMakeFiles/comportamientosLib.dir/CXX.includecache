@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/1874F57874F558C8/Documentos/Apuntes/2 Cuatrimestre/Inteligencia Artificial/Prácticas/Practica 2/practica2/Comportamientos_Jugador/aldeano.cpp
+../Comportamientos_Jugador/aldeano.hpp
+/mnt/1874F57874F558C8/Documentos/Apuntes/2 Cuatrimestre/Inteligencia Artificial/Prácticas/Practica 2/practica2/Comportamientos_Jugador/aldeano.hpp
+motorlib/util.h
+/mnt/1874F57874F558C8/Documentos/Apuntes/2 Cuatrimestre/Inteligencia Artificial/Prácticas/Practica 2/practica2/Comportamientos_Jugador/motorlib/util.h
+
+/mnt/1874F57874F558C8/Documentos/Apuntes/2 Cuatrimestre/Inteligencia Artificial/Prácticas/Practica 2/practica2/Comportamientos_Jugador/aldeano.hpp
+chrono
+-
+time.h
+-
+thread
+-
+comportamientos/comportamiento.hpp
+/mnt/1874F57874F558C8/Documentos/Apuntes/2 Cuatrimestre/Inteligencia Artificial/Prácticas/Practica 2/practica2/Comportamientos_Jugador/comportamientos/comportamiento.hpp
+
+/mnt/1874F57874F558C8/Documentos/Apuntes/2 Cuatrimestre/Inteligencia Artificial/Prácticas/Practica 2/practica2/Comportamientos_Jugador/jugador.cpp
+../Comportamientos_Jugador/jugador.hpp
+/mnt/1874F57874F558C8/Documentos/Apuntes/2 Cuatrimestre/Inteligencia Artificial/Prácticas/Practica 2/practica2/Comportamientos_Jugador/jugador.hpp
+motorlib/util.h
+/mnt/1874F57874F558C8/Documentos/Apuntes/2 Cuatrimestre/Inteligencia Artificial/Prácticas/Practica 2/practica2/Comportamientos_Jugador/motorlib/util.h
+iostream
+-
+cmath
+-
+set
+-
+stack
+-
+queue
+-
+
+/mnt/1874F57874F558C8/Documentos/Apuntes/2 Cuatrimestre/Inteligencia Artificial/Prácticas/Practica 2/practica2/Comportamientos_Jugador/jugador.hpp
+comportamientos/comportamiento.hpp
+/mnt/1874F57874F558C8/Documentos/Apuntes/2 Cuatrimestre/Inteligencia Artificial/Prácticas/Practica 2/practica2/Comportamientos_Jugador/comportamientos/comportamiento.hpp
+list
+-
+
+/mnt/1874F57874F558C8/Documentos/Apuntes/2 Cuatrimestre/Inteligencia Artificial/Prácticas/Practica 2/practica2/src/comportamientos/comportamiento.cpp
+comportamientos/comportamiento.hpp
+/mnt/1874F57874F558C8/Documentos/Apuntes/2 Cuatrimestre/Inteligencia Artificial/Prácticas/Practica 2/practica2/src/comportamientos/comportamientos/comportamiento.hpp
+
+include/comportamientos/comportamiento.hpp
+vector
+-
+
+include/motorlib/util.h
+cstdlib
+-
+
